@@ -1,0 +1,39 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "posts",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "basis",
+    "subtitle": "mistake",
+    "author": "sunlight",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8"
+    },
+    "content": [
+      {
+        "heading": "supply",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ullamco anim ut officia occaecat dolor aute et dolor. Ea consequat ex in exercitation ut excepteur. Aute aute sint magna ea commodo sunt cupidatat laboris laborum non exercitation consequat velit labore.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
